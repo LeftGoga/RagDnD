@@ -1,4 +1,4 @@
-<h1 align="center">Привествтую, меня зовут<a href="https://daniilshat.ru/" target="_blank"> Егор Поляков</a> 
+<h1 align="center">Привествтую, меня зовут Егор Поляков</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И это мое выполненное задание под номером 3 для МегаШколы ИТМО</h3>
  
